@@ -13,7 +13,7 @@
 
           setTimeout(this.siguenteNivel, 500)
 
-        }
+        } 
 
         inicializar() {
           this.siguenteNivel = this.siguenteNivel.bind(this)
