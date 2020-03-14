@@ -74,5 +74,6 @@
       }
 
       .hide {
-        display: none;
+        display: none;   /*   esta clase le agrga un display none al elemento de que la llame */
+        
       }
