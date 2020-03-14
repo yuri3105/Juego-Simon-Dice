@@ -12,7 +12,7 @@
         border-radius: 50%;
         overflow: hidden;
         margin: 0 auto;
-        max-height: 60vh;
+        max-height: 60vh; 
         max-width: 60vh;
       }
 
@@ -75,5 +75,5 @@
 
       .hide {
         display: none;   /*   esta clase le agrga un display none al elemento de que la llame */
-        
+
       }
